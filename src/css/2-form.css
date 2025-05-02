@@ -4,6 +4,9 @@
     width: 408px;
     height: 296px;
     margin: auto;
+    border: 1px solid #808080;
+    border-radius: 4px;
+    background-color: #fff;
     
   }
   
