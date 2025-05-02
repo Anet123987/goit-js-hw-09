@@ -73,5 +73,3 @@ const lightbox = new SimpleLightbox('.gallery a', {
   captionsData: 'alt',  
   captionDelay: 250,   
 });
-const modalWindow= basicLightbox.create(
-    ` <img src="" alt="" class="modal-image">`);

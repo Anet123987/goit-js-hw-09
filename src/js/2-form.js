@@ -47,7 +47,7 @@ form.addEventListener('submit', event => {
   formData.email = email;
   formData.message = message;
   console.log(formData);
-
+// очищення
   localStorage.removeItem(STORAGE_KEY);
   formData.email = '';
   formData.message = '';
